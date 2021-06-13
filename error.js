@@ -1,1 +1,1 @@
-console.log(i forgot the quotations);
+console.log("i forgot the quotations");
